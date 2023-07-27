@@ -1,0 +1,32 @@
+body{
+   background-color: rgba(128, 128, 128, 0.678);
+    margin: 50px;
+}
+    
+.card-body{
+    padding: 0;
+    text-align: center;
+    justify-content: center;
+    justify-content:space-around ;
+    
+    
+    
+}
+.card-header{
+    background-color: rgb(150, 0, 0);
+    color:antiquewhite;
+    font-size: xx-large;
+    text-align: center;
+    justify-content: center;
+    font-size:larger;
+}
+h6{
+    color: rgb(0, 0, 0);font-size: large;
+}
+h6:hover{
+    color: rgb(238, 255, 0);
+    font-size: larger;
+    
+}
+
+   
